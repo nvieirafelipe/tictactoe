@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+#include "grid.h"
+
 void print_start_board();
 void print_board(char board[ROWS][COLUMNS]);
 void print_end_board();
