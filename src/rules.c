@@ -1,3 +1,5 @@
+#include "tictactoe.h"
+
 int const MIN_PLAYS_FOR_WIN = 4;
 
 typedef char (*Handler)(char board[ROWS][COLUMNS]);
