@@ -1,3 +1,5 @@
+#include "tictactoe.h"
+
 int player_input();
 void avoid_reading_more_chars();
 int index_of_input(char input);

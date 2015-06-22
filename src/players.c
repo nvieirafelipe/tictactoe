@@ -1,3 +1,7 @@
+#include <stdio.h>
+
+#include "players.h"
+
 int player_input()
 {
   char input;
